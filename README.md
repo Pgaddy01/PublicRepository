@@ -1,4 +1,4 @@
-This repository contains multiple free gltf models found on Sketchfab, and serveral free files
+Repository contains multiple free gltf models found on Sketchfab, and serveral free files
 
 I do not own, have not modified, nor have I created any of these files.
 
